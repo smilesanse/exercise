@@ -2,7 +2,7 @@ This is the first line used for the pull request.
 
 This is the second line. 
 
-And the third!
+And the third, special for conflict test!
 
 This is another line calculating 5 + 4 = 9
 
